@@ -1,8 +1,9 @@
 # Projeto-Site
 Esse projeto visa fazer um site usando html e css.
 
-Alunos: Raimundo Coelho Rocha Neto 
-        Willian De Melo Gomes
+Alunos: 
+Raimundo Coelho Rocha Neto 
+Willian De Melo Gomes
 ## Screenshots
 
 <img src="Belezas Naturais do País_page-0001.jpg" alt="...">
